@@ -1,0 +1,28 @@
+h1{
+    color: white;
+}
+span{
+    list-style: none;
+    color: #249cac;
+    background-color: white;
+    border: 2px solid wheat;
+    border-radius: 10px;
+    font-weight: 900;
+   
+}
+li{
+    list-style: none;
+
+}
+.goBack{
+    display: flex;
+    justify-content: center;
+    margin-top: 24px;
+}
+.submitbtn{
+    background-color:#1dbcd1;
+    color: white;
+    height: 30px;
+    width: 80px;
+    border-radius: 0px 10px ;
+}
